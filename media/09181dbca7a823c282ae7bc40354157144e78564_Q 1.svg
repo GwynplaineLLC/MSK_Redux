@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="784" width="1064">
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Shapes</title>
+  <g fill="#FF0000" id="question-element">
+   <rect fill="#FF0000" height="20" id="svg_3" stroke-width="0" width="109.23077" x="837.53853" y="535.99998">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="#FF0000" to="1" />
+   </rect>
+   <rect fill="#FF0000" height="21.53846" id="svg_4" stroke-width="0" width="92.3077" x="603.69237" y="239.07689">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="#FF0000" to="1" />
+   </rect>
+   <rect fill="#FF0000" height="21.53846" id="svg_5" stroke-width="0" width="135.38462" x="799.07699" y="285.23074">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="#FF0000" to="1" />
+   </rect>
+  </g>
+  </g>
+</svg>

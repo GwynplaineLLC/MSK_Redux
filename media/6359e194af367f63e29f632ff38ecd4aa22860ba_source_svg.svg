@@ -1,0 +1,32 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" height="403" width="618">
+ <ns0:g>
+  <ns0:title>Shapes</ns0:title>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="26" stroke-width="0" width="50" x="18" y="180" />
+   <ns0:rect fill="#FFFFFF" height="27" stroke-width="0" width="74" x="89" y="181" />
+   <ns0:rect fill="#FFFFFF" height="26" stroke-width="0" width="76" x="316" y="182" />
+   <ns0:rect fill="#FFFFFF" height="26" stroke-width="0" width="81" x="413" y="182" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="23" stroke-width="0" width="114" x="18" y="226" />
+   <ns0:rect fill="#FFFFFF" height="23" stroke-width="0" width="117" x="138" y="227" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="20" stroke-width="0" width="105" x="318" y="227" />
+   <ns0:rect fill="#FFFFFF" height="20" stroke-width="0" width="107" x="427" y="227" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="22" stroke-width="0" width="54" x="137" y="252" />
+   <ns0:rect fill="#FFFFFF" height="24" stroke-width="0" width="56" x="436" y="251" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="23" stroke-width="0" width="90" x="130" y="293" />
+   <ns0:rect fill="#FFFFFF" height="21" stroke-width="0" width="82" x="400" y="292" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="20" stroke-width="0" width="80" x="18" y="334" />
+   <ns0:rect fill="#FFFFFF" height="19" stroke-width="0" width="82" x="317" y="335" />
+   <ns0:rect fill="#FFFFFF" height="21" stroke-width="0" width="119" x="107" y="334" />
+  </ns0:g>
+ </ns0:g>
+</ns0:svg>

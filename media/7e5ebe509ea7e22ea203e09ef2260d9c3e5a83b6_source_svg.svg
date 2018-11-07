@@ -1,0 +1,8 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" height="587" width="1061">
+ <ns0:g>
+  <ns0:title>Shapes</ns0:title>
+  <ns0:rect fill="#FFFFFF" height="30" stroke-width="0" width="227" x="0" y="365">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" style="vector-effect: non-scaling-stroke; " to="1" />
+  </ns0:rect>
+ </ns0:g>
+</ns0:svg>

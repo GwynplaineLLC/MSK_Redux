@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="794" width="1075">
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Shapes</title>
+  <rect fill="#FF0000" height="21.875" id="question-element" stroke-width="0" width="192.1875" x="290.62501" y="710.68751">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="#FF0000" to="1" />
+  </rect>
+  </g>
+</svg>

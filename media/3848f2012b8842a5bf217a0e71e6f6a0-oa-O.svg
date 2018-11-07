@@ -1,0 +1,42 @@
+<svg height="611" width="986" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="40" id="3848f2012b8842a5bf217a0e71e6f6a0-oa-1" stroke="#2D2D2D" width="405" x="62" y="173">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="37" id="3848f2012b8842a5bf217a0e71e6f6a0-oa-2" stroke="#2D2D2D" width="407" x="62" y="302">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="40" id="3848f2012b8842a5bf217a0e71e6f6a0-oa-3" stroke="#2D2D2D" width="576" x="59" y="429">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <g id="3848f2012b8842a5bf217a0e71e6f6a0-oa-4">
+   <rect fill="#FFEBA2" height="37" stroke="#2D2D2D" width="91" x="96" y="236">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="35" stroke="#2D2D2D" width="31" x="243" y="238">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="3848f2012b8842a5bf217a0e71e6f6a0-oa-5">
+   <rect fill="#FFEBA2" height="38" stroke="#2D2D2D" width="32" x="91" y="367">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="33" stroke="#2D2D2D" width="30" x="175" y="366">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="3848f2012b8842a5bf217a0e71e6f6a0-oa-6">
+   <rect fill="#FFEBA2" height="35" stroke="#2D2D2D" width="29" x="95" y="495">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="35" stroke="#2D2D2D" width="50" x="175" y="495">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+ </g>
+</svg>

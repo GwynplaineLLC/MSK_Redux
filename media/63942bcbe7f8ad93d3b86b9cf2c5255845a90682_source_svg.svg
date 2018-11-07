@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="809" width="1073">
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Shapes</title>
+  <g id="svg_5">
+   <rect fill="#00AA7F" height="50.76923" id="svg_2" stroke-width="0" width="96.92308" x="170.07685" y="134.07697">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+   </rect>
+   <rect fill="#00AA7F" height="53.84616" id="svg_3" stroke-width="0" width="96.92308" x="290.07685" y="134.07697">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+   </rect>
+   <rect fill="#00AA7F" height="55.38462" id="svg_4" stroke-width="0" width="161.53847" x="586.99994" y="137.15389">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+   </rect>
+  </g>
+  <rect fill="#00AA7F" height="32.30769" id="svg_7" stroke-width="0" width="181.53847" x="273.15378" y="724.84621">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" style="vector-effect: non-scaling-stroke; " to="1" />
+  </rect>
+  <rect fill="#00AA7F" height="1.53846" id="svg_10" stroke-width="0" width="0" x="326.99993" y="751.00007">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <g id="svg_12">
+   <rect fill="#00AA7F" height="26.15385" id="svg_6" stroke-width="0" width="149.23078" x="85.46146" y="752.53852">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" style="vector-effect: non-scaling-stroke; " to="1" />
+   </rect>
+   <rect fill="#00AA7F" height="24.61539" id="svg_11" stroke-width="0" width="101.53847" x="137.76916" y="724.84622">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+   </rect>
+  </g>
+  <g id="svg_13">
+   <rect fill="#00AA7F" height="23.07692" id="svg_8" stroke-width="0" width="101.53847" x="620.8461" y="727.92314">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+   </rect>
+   <rect fill="#00AA7F" height="26.15385" id="svg_9" stroke-width="0" width="127.69231" x="590.07686" y="754.07699">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+   </rect>
+  </g>
+  <rect fill="#00AA7F" height="24.61539" id="svg_14" stroke-width="0" width="170.76924" x="830.07687" y="754.07699">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+ </g>
+</svg>

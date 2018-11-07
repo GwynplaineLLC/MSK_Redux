@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="802.9999999999999" width="1081">
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Shapes</title>
+  <rect fill="#00AA7F" height="85.9375" id="svg_2" stroke-width="0" width="178.125" x="820.56242" y="623.56254">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#00AA7F" height="42.1875" id="svg_3" stroke-width="0" width="101.5625" x="826.81242" y="347.00003">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#00AA7F" height="35.9375" id="svg_6" stroke-width="0" width="215.625" x="170.5624" y="661.06254">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <g id="svg_7">
+   <rect fill="#00AA7F" height="37.5" id="svg_4" stroke-width="0" width="126.5625" x="164.3124" y="745.43754">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+   </rect>
+   <rect fill="#00AA7F" height="35.9375" id="svg_5" stroke-width="0" width="251.56251" x="181.4999" y="704.81254">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+   </rect>
+  </g>
+ </g>
+</svg>

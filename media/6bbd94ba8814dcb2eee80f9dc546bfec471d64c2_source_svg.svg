@@ -1,0 +1,41 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" height="510" width="396">
+ <ns0:g>
+  <ns0:title>Shapes</ns0:title>
+  <ns0:rect fill="#FFFFFF" height="14" stroke-width="0" width="110" x="39" y="455" />
+  <ns0:rect fill="#FFFFFF" height="17" stroke-width="0" width="62" x="222" y="410" />
+  <ns0:rect fill="#FFFFFF" height="15" stroke-width="0" width="109" x="228" y="450" />
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="12" stroke-width="0" width="109" x="226" y="234" />
+   <ns0:rect fill="#FFFFFF" height="13" stroke-width="0" width="31" x="225" y="250" />
+   <ns0:rect fill="#FFFFFF" height="13" stroke-width="0" width="30" x="270" y="249" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="14" stroke-width="0" width="95" x="41" y="301" />
+   <ns0:rect fill="#FFFFFF" height="14" stroke-width="0" width="68" x="61" y="318" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="12" stroke-width="0" width="154" x="223" y="326" />
+   <ns0:rect fill="#FFFFFF" height="13" stroke-width="0" width="56" x="254" y="341" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="12" stroke-width="0" width="99" x="254" y="169" />
+   <ns0:rect fill="#FFFFFF" height="13" stroke-width="0" width="36" x="252" y="184" />
+   <ns0:rect fill="#FFFFFF" height="13" stroke-width="0" width="30" x="303" y="184" />
+  </ns0:g>
+  <ns0:rect fill="#FFFFFF" height="13" stroke-width="0" width="115" x="243" y="124" />
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="11" stroke-width="0" width="106" x="247" y="78" />
+   <ns0:rect fill="#FFFFFF" height="12" stroke-width="0" width="45" x="253" y="104" />
+   <ns0:rect fill="#FFFFFF" height="11" stroke-width="0" width="29" x="294" y="91" />
+   <ns0:rect fill="#FFFFFF" height="9" stroke-width="0" width="32" x="246" y="92" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="25" stroke-width="0" width="84" x="56" y="14" />
+   <ns0:rect fill="#FFFFFF" height="13" stroke-width="0" width="44" x="65" y="41" />
+  </ns0:g>
+  <ns0:g>
+   <ns0:rect fill="#FFFFFF" height="24" stroke-width="0" width="81" x="39" y="69" />
+   <ns0:rect fill="#FFFFFF" height="13" stroke-width="0" width="47" x="43" y="96" />
+  </ns0:g>
+ </ns0:g>
+</ns0:svg>
